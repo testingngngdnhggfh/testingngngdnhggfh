@@ -1,4 +1,4 @@
-$$\color{#FFE370}{\textsf{anzu}}$$
+$$\color{#F69154}{\textsf{anzu}}$$
 
 <br>
 
