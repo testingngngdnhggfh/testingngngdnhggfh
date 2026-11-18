@@ -7,4 +7,4 @@ $$\color{#FFE370}{\textit{\texttt{We are the ones who carry the burden of the so
 
 <br>
 
-$$\color{#F69154}{\textsf{───────── ✧･ﾟ✦ﾟ･✧ ─────────}}$$
+$$\color{#F69154}{\textsf{───────── ✧･ﾟ✦･✧ ─────────}}$$
