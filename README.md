@@ -20,8 +20,7 @@ $$\color{#F69154}{\textsf{───────── ✧･ﾟ✦･✧ ──�
 
 <br>
 
-![image](https://64.media.tumblr.com/be7afb7168ecc219bf552f80ce0eba76/ee643efaa86f6169-5b/s75x75_c1/efb0d77f9c298eec158dec6a720ba83e7b99184b.gifv)
-$$\color{#F69154}{\textsf{nya !}}$$
+$$\color{#F69154}{\textsf{nya !}}$$ ![image](https://64.media.tumblr.com/be7afb7168ecc219bf552f80ce0eba76/ee643efaa86f6169-5b/s75x75_c1/efb0d77f9c298eec158dec6a720ba83e7b99184b.gifv)
 
 
 
