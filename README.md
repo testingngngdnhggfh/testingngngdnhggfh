@@ -23,7 +23,7 @@ $$\color{#F69154}{\textsf{───────── ✧･ﾟ✦･✧ ──�
 $$\color{#F69154}{\textsf{nya !}}$$
 
 
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=skybuiider&color=e2bf9c&style=flat-square&label=﹒" alt="watching_count" /><br>
+![](https://komarev.com/ghpvc/?username=testingngngdnhggfh)
+![](https://komarev.com/ghpvc/?username=testingngngdnhggfh&color=FFE370)
 
 
