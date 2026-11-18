@@ -22,8 +22,4 @@ $$\color{#F69154}{\textsf{───────── ✧･ﾟ✦･✧ ──�
 
 $$\color{#F69154}{\textsf{nya !}}$$
 
-
-![](https://komarev.com/ghpvc/?username=testingngngdnhggfh)
 ![](https://komarev.com/ghpvc/?username=testingngngdnhggfh&color=FFE370)
-
-
