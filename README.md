@@ -36,12 +36,3 @@
     
     </g>
   </svg>
-
-
-
-
-
-
-
-
-<p align=center> <img  alt="image" src="https://github.com/user-attachments/assets/2a345679-4c3a-4b36-b0ba-585477d677d8" />
